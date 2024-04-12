@@ -19,6 +19,10 @@ Code
     -- t-SNE: folder contains code for generating t-SNE plots for various combinations of attributes & image results
 
     -- infer_full: code for generating InstantID images
+
+Result_InstantID
+
+    -- result images generated using InstantID
         
 TSNE results
 
