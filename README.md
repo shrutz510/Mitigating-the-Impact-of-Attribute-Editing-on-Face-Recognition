@@ -20,3 +20,10 @@ Code
 
     -- infer_full: code for generating InstantID images
         
+TSNE results
+
+    -- tsne: regular & transformed plots separately comparing similar attributes for BLIP, InstantID, and DreamBooth images
+    
+    -- tsne_attributes: plots for each attribute containing BLIP, InstantID, and DreamBooth images
+    
+    -- tsne_attributes2: plots for each attribute containing BLIP, InstantID, and CN-IP images
