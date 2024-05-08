@@ -34,4 +34,4 @@ TSNE results
 
 References:
 
-InstantID code is sourced from https://github.com/InstantID/InstantID. 
+InstantID code is sourced from https://github.com/InstantID/InstantID. infer_full.py files are updated according to the required prompts; the rest of the method remains the same.
