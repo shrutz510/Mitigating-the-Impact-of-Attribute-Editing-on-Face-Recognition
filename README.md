@@ -1,18 +1,13 @@
 # Face-Recognition
 Mitigating the Impact of Attribute Editing on Face Recognition
 
-
-Attribute results
-
-    -- result_blip: BLIP score of whether an attribute is present in the image or not
-
-    -- result_llava: LLaVa score of whether an attribute is present in the image or not
-
-    -- original: original score
-
 Code
 
     -- Attribute: folder contains code for calculating the accuracy of BLIP & LLava attribute detection
+        -- Attribute results
+            -- result_blip: BLIP score of whether an attribute is present in the image or not
+            -- result_llava: LLaVa score of whether an attribute is present in the image or not
+            -- original: original score
 
     -- LLava: folder contains code for LLaVa benchmarking on different result images
 
