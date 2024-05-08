@@ -59,8 +59,8 @@ attributes = [
     "Wearing_Hat", "Wearing_Lipstick", "Wearing_Necklace", "Wearing_Necktie", "Young"
 ]
 
-original = 'original.txt'
-result = 'result_llava.csv'
+original = 'Attribute Results/original.txt'
+result = 'Attribute Results/result_llava.csv'
 
 with open(original, 'r') as file:
     original_content = file.readlines()
