@@ -78,7 +78,7 @@ if __name__ == "__main__":
     prompt = "(lowres, low quality, worst quality:1.2), (text:1.2), blue eyes, flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy, watermark, painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
 
     for attribute in attributes:
-        n_prompt = f"HDR colored photo of a {} person. High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed"
+        n_prompt = f"HDR colored photo of a {attribute} person. High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed"
 
         for i in range(101):
             image_filename = f"./Images/{i}.jpg"
