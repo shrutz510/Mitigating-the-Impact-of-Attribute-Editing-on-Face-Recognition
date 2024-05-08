@@ -59,8 +59,8 @@ attributes = [
     "Wearing_Hat", "Wearing_Lipstick", "Wearing_Necklace", "Wearing_Necktie", "Young"
 ]
 
-original = 'original.txt'
-result = 'result_blip.txt'
+original = 'Attribute Results/original.txt'
+result = 'Attribute Results/result_blip.txt'
 
 accuracy = calculate_accuracy(original, result, attributes)
 
