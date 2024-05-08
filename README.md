@@ -18,7 +18,7 @@ Code
 
     -- t-SNE: folder contains code for generating t-SNE plots for various combinations of attributes & image results
 
-    -- infer_full: code for generating InstantID images
+    -- InstantID: code for generating InstantID images
 
 Result_InstantID
 
@@ -31,3 +31,7 @@ TSNE results
     -- tsne_attributes: plots for each attribute containing BLIP, InstantID, and DreamBooth images
     
     -- tsne_attributes2: plots for each attribute containing BLIP, InstantID, and CN-IP images
+
+References:
+
+InstantID code is sourced from https://github.com/InstantID/InstantID. 
